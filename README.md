@@ -8,7 +8,8 @@ Designed and implemented the frontend interface of an Amazon-like e-commerce web
 
 **GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
 
-## Deplyed_at :   [Look_here](amazondupliclone.netlify.app)
+## Deployed at: [Look here](https://amazondupliclone.netlify.app)
+
 
 
 
