@@ -16,6 +16,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 1. **Excution:  just import files or git clone this repo and open throught any browser.
 
 
-##What I Learn
+## What I Learn
 Designed and implemented the frontend interface of an Amazon-like e-commerce website.
 Created responsive layouts using HTML and CSS to ensure compatibility across devices.
